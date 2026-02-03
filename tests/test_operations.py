@@ -8,4 +8,4 @@ def test_add():
 def test_sub():
     assert sub(2,3) == -1
     assert sub(1,3) == -2
-    assert sub(-1,1) == 0
+    assert sub(-1,1) == -2
